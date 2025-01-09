@@ -18,7 +18,7 @@ Projeto fruto de um curso gratuito, promovido pela Rocketseat para ensino de tec
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="preview.jpg" width="100%">
+  <img alt="projeto DevLinks" src="/.github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
